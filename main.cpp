@@ -1,8 +1,7 @@
 ///**********************************************************
 //Description: This program will go through a tic-tac-toe game
 //Author: Josh Hall
-//COMSC 165 Section 5033
-//Date June 24, 2022
+//Date: June 24, 2022
 //Status: Complete
 ///**********************************************************
 
